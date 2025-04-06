@@ -1,43 +1,44 @@
 <h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">
-  🌐 Full Stack Developer | 👨‍🎓 Passionate Learner | 💡 DSA Enthusiast | 💻 Problem Solver | 🌱 Always Growing
+  🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Full Stack Dev" />
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="DSA Learning" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎯 I'm a budding full stack developer who enjoys learning new technologies and solving challenging problems through DSA.
+Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA problems, and building cool real-world projects.
 
-💡 I believe in writing clean, readable, and efficient code — one step at a time.
+- 🎯 Currently exploring Full Stack Web Development
+- 💡 Passionate about Data Structures & Algorithms
+- 🧠 I believe in learning by building and breaking things
+- 🛠️ Working on more awesome projects (stay tuned!)
 
-🌱 Currently exploring advanced backend integrations and sharpening my frontend skills.
-
-🚀 I love turning ideas into real-life projects, whether they’re big or small!
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
 
 ---
 
-## 🧠 I Love DSA!
+## 🧠 I 💖 DSA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBsYF0gkq3zv3DO/giphy.gif" width="250" alt="DSA Gif" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
 
-- Practicing DSA on platforms like LeetCode and HackerRank  
-- Exploring topics like arrays, recursion, linked lists, graphs, trees  
-- Solving real-world problems to improve logical thinking
+I love solving coding problems and sharpening my logic every day.  
+Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ---
 
 ## 🔧 Tech Stack
 
 ### 💻 Languages
-<p align="left">
+<p>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
@@ -46,69 +47,77 @@
 </p>
 
 ### 🌐 Frontend
-<p align="left">
+<p>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" />
-  <img src="https://img.icons8.com/offices/48/react.png" title="React" />
+  <img src="https://img.icons8.com/offices/48/react.png" title="React.js" />
   <img src="https://vitejs.dev/logo.svg" width="40" title="Vite" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS" />
   <img src="https://daisyui.com/images/daisyui-logo/daisyui-logo-icon.svg" width="40" title="DaisyUI" />
 </p>
 
-### 🧪 Backend & Tools
-<p align="left">
+### 🔧 Backend & Tools
+<p>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
   <img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/fluency/48/json-web-token.png" title="JWT" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-socket-io-web-soft-fill-soft-fill-juicy-fish.png" title="Socket.io" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔥 SpicyTaste
-> A modern food ordering web app with React, Tailwind, and clean responsive design.  
-> 📦 Features include menu browsing, category filters, and future integration for ordering!
+### 🍔 SpicyTaste
+> A tasty front-end food ordering website with a beautiful UI and animations.
 
-<p>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="350" />
+📌 Built with:
+`HTML` | `CSS` | `JavaScript`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="500" />
 </p>
 
-**Tech Used:** React, Tailwind CSS, Vite, DaisyUI, Routing
-
-🔗 **Coming Soon on GitHub...**
-
 ---
 
-### 💬 Chat App
-> A real-time chat application built with love 💬  
-> Sleek UI + instant messaging = real-time conversation simplified.
+### 💬 Real-time Chat App
+> A chat application with real-time messaging, authentication, and database integration.
 
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+📌 Built with:
+`React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="500" />
 </p>
 
-**Tech Used:** React, Node.js, Express, Socket.IO
-
-🔗 **Coming Soon on GitHub...**
-
----
-
-## 📁 More Projects
-
-⚒️ Currently building more exciting apps... Stay tuned!
+✔️ Features:
+- Realtime 1-on-1 chat
+- JWT Auth + Login/Register
+- MongoDB chat storage
+- Beautiful UI using DaisyUI
+- Fully responsive frontend
 
 ---
 
-## 🌐 Connect With Me
+## 🧑‍🎓 Still Learning!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250" />
+</p>
+
+I'm still learning every day and growing as a developer 🚀  
+Always building, always curious.
+
+---
+
+## 📬 Contact Me
 
 <p>
-  <a href="mailto:sparsh@example.com">
-    <img src="https://img.shields.io/badge/Gmail-sparsh@example.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Sparsh%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:sparshs1790@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sparshs1790@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/sparshsharma">
     <img src="https://img.shields.io/badge/GitHub-sparshsharma-black?style=for-the-badge&logo=github" />
@@ -120,9 +129,10 @@
 ## ✨ Just Me Coding Away...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Code. Learn. Break. Fix. Repeat.”
 
 ---
+
