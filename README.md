@@ -1,9 +1,128 @@
-<h1 align="center">Hi 👋, I'm SPARSH SHARMA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
+<h3 align="center">
+  🌐 Full Stack Developer | 👨‍🎓 Passionate Learner | 💡 DSA Enthusiast | 💻 Problem Solver | 🌱 Always Growing
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Full Stack Dev" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="DSA Learning" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+🎯 I'm a budding full stack developer who enjoys learning new technologies and solving challenging problems through DSA.
+
+💡 I believe in writing clean, readable, and efficient code — one step at a time.
+
+🌱 Currently exploring advanced backend integrations and sharpening my frontend skills.
+
+🚀 I love turning ideas into real-life projects, whether they’re big or small!
+
+---
+
+## 🧠 I Love DSA!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBsYF0gkq3zv3DO/giphy.gif" width="250" alt="DSA Gif" />
+</p>
+
+- Practicing DSA on platforms like LeetCode and HackerRank  
+- Exploring topics like arrays, recursion, linked lists, graphs, trees  
+- Solving real-world problems to improve logical thinking
+
+---
+
+## 🔧 Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" />
+  <img src="https://img.icons8.com/offices/48/react.png" title="React" />
+  <img src="https://vitejs.dev/logo.svg" width="40" title="Vite" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS" />
+  <img src="https://daisyui.com/images/daisyui-logo/daisyui-logo-icon.svg" width="40" title="DaisyUI" />
+</p>
+
+### 🧪 Backend & Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
+  <img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔥 SpicyTaste
+> A modern food ordering web app with React, Tailwind, and clean responsive design.  
+> 📦 Features include menu browsing, category filters, and future integration for ordering!
+
+<p>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="350" />
+</p>
+
+**Tech Used:** React, Tailwind CSS, Vite, DaisyUI, Routing
+
+🔗 **Coming Soon on GitHub...**
+
+---
+
+### 💬 Chat App
+> A real-time chat application built with love 💬  
+> Sleek UI + instant messaging = real-time conversation simplified.
+
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
+**Tech Used:** React, Node.js, Express, Socket.IO
+
+🔗 **Coming Soon on GitHub...**
+
+---
+
+## 📁 More Projects
+
+⚒️ Currently building more exciting apps... Stay tuned!
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:sparsh@example.com">
+    <img src="https://img.shields.io/badge/Gmail-sparsh@example.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Sparsh%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/sparshsharma">
+    <img src="https://img.shields.io/badge/GitHub-sparshsharma-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ✨ Just Me Coding Away...
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+</p>
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
