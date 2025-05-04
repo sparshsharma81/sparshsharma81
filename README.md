@@ -123,7 +123,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 `HTML` | `CSS` | `JavaScript`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="500" />
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/spicy.gif?raw=true" width="1200" />
 </p>
 
 ---
