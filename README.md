@@ -123,7 +123,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 `HTML` | `CSS` | `JavaScript`
 
 <p align="center">
-  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/spicy.gif?raw=true" width="1200" />
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/spicy.gif?raw=true" width="1400" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT`
 
 <p align="center">
-   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11.gif?raw=true" width="1200" />
+   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11.gif?raw=true" width="1400" />
   <br>
 
   
