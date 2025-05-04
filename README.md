@@ -2,13 +2,14 @@
 <h3 align="center">
   🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -187,7 +188,7 @@ Always building, always curious.
 
 ---
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 
