@@ -135,12 +135,11 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT`
 
 <p align="center">
-   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/3.png?raw=true" width="1000" />
+   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11.gif?raw=true" width="1200" />
   <br>
-  <br>
+
   
-  
-  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/5.png?raw=true" width="1000" />
+
 </p>
 
 ✔️ Features:
