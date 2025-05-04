@@ -58,13 +58,56 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ### 🔧 Backend & Tools
 <p>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
-  <img src="https://img.icons8.com/ios/50/express-js.png" title="Express.js" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" />
-  <img src="https://img.icons8.com/fluency/48/json-web-token.png" title="JWT" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-socket-io-web-soft-fill-soft-fill-juicy-fish.png" title="Socket.io" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="48" height="48" />
+
+  <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="48" height="48" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48" />
+
+  <!-- Mongoose -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" title="Mongoose" width="48" height="48" />
+
+  <!-- Cloudinary -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" title="Cloudinary" width="48" height="48" />
+
+  <!-- JWT -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" title="JWT" width="48" height="48" />
+
+  <!-- Socket.io -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="48" height="48" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="48" height="48" />
+
+  <!-- Vite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" width="48" height="48" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="48" height="48" />
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="48" height="48" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48" height="48" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48" />
+
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postman" width="48" height="48" />
+
+  <!-- Vercel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="48" height="48" />
+
+  <!-- Render -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" title="Render" width="48" height="48" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48" />
 </p>
 
 ---
@@ -90,15 +133,45 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="500" />
+   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/3.png?raw=true" width="1000" />
+  <br>
+  <br>
+  
+  
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/5.png?raw=true" width="1000" />
 </p>
 
 ✔️ Features:
-- Realtime 1-on-1 chat
-- JWT Auth + Login/Register
-- MongoDB chat storage
-- Beautiful UI using DaisyUI
-- Fully responsive frontend
+- 🌟 **User Profiles**  
+  Customizable user profiles that allow users to upload their profile picture, set their username, and update other personal details.
+
+- 🎨 **Customizable Themes**  
+  Users can choose from **light** or **dark** modes and customize their chat interface with a variety of themes to suit their preferences.
+
+- 📤 **File Sharing**  
+  Seamless upload and sharing of **media files**, **documents**, **images**, and **videos** within chats, making communication more versatile.
+
+- 🟢🔴 **Online/Offline Status**  
+  Real-time display of user presence with **online/offline status** indicators to show when someone is available to chat.
+
+- 🔁 **Real-time 1-on-1 Messaging**  
+  Powered by **Socket.io**, users can send and receive messages instantly, ensuring a seamless real-time communication experience.
+
+- 🔐 **JWT Authentication**  
+  Secure login and registration system with **JSON Web Token (JWT)** authentication for safe user authentication and access control.
+
+- 🗄️ **MongoDB Chat Storage**  
+  All chat messages are securely stored and retrieved in **MongoDB**, ensuring **data persistence** and **scalability**.
+
+- 💻 **Beautiful User Interface**  
+  The application features a **clean** and **modern UI** built with **DaisyUI**, providing an intuitive and visually appealing user experience.
+
+- 🤖 **Gemini AI Assistant Integration**  
+  Integrated **Gemini AI** assistant (similar to ChatGPT) that can assist users in conversations, answer questions, and enhance interactivity.
+- 📱 **Fully Responsive Frontend**  
+  A **mobile-friendly design** that ensures a consistent and user-friendly experience across all devices, including desktops, tablets, and smartphones.
+
+---
 
 ---
 
