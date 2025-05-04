@@ -188,7 +188,7 @@ Always building, always curious.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 
