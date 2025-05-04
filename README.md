@@ -2,6 +2,7 @@
 <h3 align="center">
   🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
