@@ -116,7 +116,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ## 🚀 Projects
 
-### 🍔 SpicyTaste
+### 🍔 SpicyTaste  (https://evaluation-1-eta.vercel.app)
 > A tasty front-end food ordering website with a beautiful UI and animations.
 
 📌 Built with:
@@ -128,7 +128,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ---
 
-### 💬 Real-time Chat App
+### 💬 Real-time Chat App    (https://chat-mmln.onrender.com)
 > A chat application with real-time messaging, authentication, and database integration.
 
 📌 Built with:
