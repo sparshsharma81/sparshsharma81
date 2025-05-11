@@ -37,7 +37,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Languages
 <p>
@@ -50,66 +50,44 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ### 🌐 Frontend
 <p>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" />
-  <img src="https://img.icons8.com/offices/48/react.png" title="React.js" />
-  <img src="https://vitejs.dev/logo.svg" width="40" title="Vite" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS" />
-  <img src="https://daisyui.com/images/daisyui-logo/daisyui-logo-icon.svg" width="40" title="DaisyUI" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="48" height="48" />
+  <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" />
+  <img src="https://logo.svgcdn.com/l/daisyUI.svg" title="DaisyUI" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="48" height="48" />
 </p>
 
 ### 🔧 Backend & Tools
 <p>
-  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="48" height="48" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="48" height="48" />
 
-  <!-- Express.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="48" height="48" />
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48" />
-
-  <!-- Mongoose -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" title="Mongoose" width="48" height="48" />
-
-  <!-- Cloudinary -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" title="Cloudinary" width="48" height="48" />
-
-  <!-- JWT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" title="JWT" width="48" height="48" />
-
-  <!-- Socket.io -->
+  <img src="https://cloudinary-res.cloudinary.com/image/upload/v1597183771/website/cloudinary_web_favicon.png" title="Cloudinary" width="48" height="48" />
+  <img src="https://jwt.io/img/pic_logo.svg" title="JWT" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="48" height="48" />
+</p>
 
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="48" height="48" />
-
-  <!-- Vite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" width="48" height="48" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="48" height="48" />
-
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="48" height="48" />
-
-  <!-- Git -->
+### 🧰 Dev Tools & Platforms
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48" height="48" />
-
-  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48" />
+  <img src="https://www.svgrepo.com/show/306590/postman.svg" title="Postman" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="48" height="48" />
 
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postman" width="48" height="48" />
-
-  <!-- Vercel -->
+  <img src="https://avatars.githubusercontent.com/u/108396295?s=200&v=4" title="Cursor" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="48" height="48" />
 
-  <!-- Render -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" title="Render" width="48" height="48" />
+<img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" width="48" height="48" />
 
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48" />
+
+
+
 </p>
 
 ---
