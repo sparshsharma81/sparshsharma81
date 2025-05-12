@@ -150,6 +150,13 @@ Always building, always curious.
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
+</picture>
+
+
 ## 📬 Contact Me
 
 <p>
