@@ -170,6 +170,9 @@ Always building, always curious.
 
 
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+
+
 ## 📬 Contact Me
 
 <p>
