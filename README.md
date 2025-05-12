@@ -179,7 +179,7 @@ Always building, always curious.
   <a href="mailto:sparshs1790@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sparshs1790@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/sparshsharma">
+  <a href="https://github.com/sparshsharma81">
     <img src="https://img.shields.io/badge/GitHub-sparshsharma-black?style=for-the-badge&logo=github" />
   </a>
 </p>
