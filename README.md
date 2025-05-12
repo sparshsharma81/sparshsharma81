@@ -41,49 +41,26 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ### 💻 Languages
 <p>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="48" height="48" />
-  <img src="https://vitejs.dev/logo.svg" title="Vite" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" />
-  <img src="https://logo.svgcdn.com/l/daisyUI.svg" title="DaisyUI" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,daisyui,figma,bootstrap" />
+
 </p>
 
 ### 🔧 Backend & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="48" height="48" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,cloudflare,jwt,socket" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" title="Mongoose" width="48" height="48" />
-  <img src="https://cloudinary-res.cloudinary.com/image/upload/v1597183771/website/cloudinary_web_favicon.png" title="Cloudinary" width="48" height="48" />
-  <img src="https://jwt.io/img/pic_logo.svg" title="JWT" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="48" height="48" />
 </p>
 
 ### 🧰 Dev Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48" height="48" />
-  <img src="https://www.svgrepo.com/show/306590/postman.svg" title="Postman" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,ubuntu,vercel" />
 
-  <img src="https://avatars.githubusercontent.com/u/108396295?s=200&v=4" title="Cursor" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" width="48" height="48" />
-
-<img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" width="48" height="48" />
 
 
 
