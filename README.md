@@ -47,7 +47,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ### 🌐 Frontend
 <p>
- <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,daisyui,figma,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,figma,bootstrap,daisyui" />
 
 </p>
 
