@@ -116,10 +116,13 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 - 🔐 **JWT Authentication**  
   Secure login and registration system with **JSON Web Token (JWT)** authentication for safe user authentication and access control.
 
+- 🛡️ **Password Security with Bcrypt**  
+ All user passwords are securely hashed using bcrypt, ensuring strong encryption and protection against data breaches and brute-force attacks.
+
 - 🗄️ **MongoDB Chat Storage**  
   All chat messages are securely stored and retrieved in **MongoDB**, ensuring **data persistence** and **scalability**.
 
-- 💻 **Beautiful User Interface**  
+- 💻 **Modern UI**  
   The application features a **clean** and **modern UI** built with **DaisyUI**, providing an intuitive and visually appealing user experience.
 - ▶️ **YouTube Integration**  
   Integrated YouTube API allowing users to search, preview, or share YouTube videos directly within the chat or from your website.
