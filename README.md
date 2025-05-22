@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
+.<h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">
   🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
@@ -87,7 +87,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 > A chat application with real-time messaging, authentication, and database integration.
 
 📌 Built with:
-`React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary`
+`React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Cloudinary` `Bcrypt`
 
 <p align="center">
    <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11-1.gif?raw=true" width="1400" />
