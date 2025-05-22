@@ -1,4 +1,4 @@
-.<h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
+<h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">
   🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
