@@ -121,9 +121,8 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 - 💻 **Beautiful User Interface**  
   The application features a **clean** and **modern UI** built with **DaisyUI**, providing an intuitive and visually appealing user experience.
-  
-  - ▶️ ** YouTube Integration**  
- Integrated YouTube API allowing users to search, preview, or share YouTube videos directly within the chat or from your website.
+- ▶️ **YouTube Integration**  
+  Integrated YouTube API allowing users to search, preview, or share YouTube videos directly within the chat or from your website.
 
 - 🤖 **Gemini AI Assistant Integration**  
   Integrated **Gemini AI** assistant (similar to ChatGPT) that can assist users in conversations, answer questions, and enhance interactivity.
