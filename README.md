@@ -34,7 +34,7 @@ Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA pr
   <!-- Top Right Image -->
 
   <!-- Center Image (Main) -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
 
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" height="200" />
 
