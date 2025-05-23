@@ -34,9 +34,9 @@ Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA pr
   <!-- Top Right Image -->
 
   <!-- Center Image (Main) -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
 
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" height="200" />
 
  
 </div>
@@ -216,8 +216,8 @@ Always building, always curious.
 ## ✨ Just Me Coding Away...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200" />
-     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Study Mode" height="200"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" />
+     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Study Mode" height="200"/>
 </p>
 
 > “Code. Learn. Break. Fix. Repeat.”
