@@ -1,11 +1,18 @@
 <h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">
+  
+
+
+ 
+  
+
   🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
 </h3>
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  
 </p>
 
 ---
@@ -20,17 +27,29 @@ Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA pr
 - 🧠 I believe in learning by building and breaking things
 - 🛠️ Working on more awesome projects (stay tuned!)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
+  <!-- Top Left Image -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
+
+  <!-- Top Right Image -->
+
+  <!-- Center Image (Main) -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
+
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" height="200" />
+
+ 
+</div>
 
 ---
 
 ## 🧠 I 💖 DSA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200" />
 </p>
+
+
 
 I love solving coding problems and sharpening my logic every day.  
 Practicing regularly on platforms like LeetCode, HackerRank, and more.
@@ -139,7 +158,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 ## 🧑‍🎓 Still Learning!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300" />
 </p>
 
 I'm still learning every day and growing as a developer 🚀  
@@ -147,12 +166,28 @@ Always building, always curious.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact)
+## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsharma81&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="700" height="250" />
+</p>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+
+ 
 
 
 <picture>
@@ -181,7 +216,8 @@ Always building, always curious.
 ## ✨ Just Me Coding Away...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200" />
+     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Study Mode" height="200"/>
 </p>
 
 > “Code. Learn. Break. Fix. Repeat.”
