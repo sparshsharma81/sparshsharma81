@@ -124,7 +124,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
   Users can choose from **light** or **dark** modes and customize their chat interface with a variety of themes to suit their preferences.
 
 - 📤 **File Sharing**  
-  Seamless upload and sharing of **media files**, **documents**, **images**, and **videos** within chats, making communication more versatile.
+  Seamless upload and sharing of **media files**,**images**, and **videos** within chats, making communication more versatile.
 
 - 🟢🔴 **Online/Offline Status**  
   Real-time display of user presence with **online/offline status** indicators to show when someone is available to chat.
