@@ -177,6 +177,7 @@ Always building, always curious.
 ## 📊 GitHub Stats
 
   <img src="https://github-profile-trophy.vercel.app/?username=sparshsharma81&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
+  <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
 <table>
   <tr>
@@ -198,6 +199,7 @@ Always building, always curious.
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
 </div>
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
 
@@ -211,7 +213,7 @@ Always building, always curious.
 
 
 
-
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
 ## 📬 Contact Me
 
