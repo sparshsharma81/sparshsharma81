@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;I+LOVE+DSA;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%92%AF" alt="Typing SVG" />
@@ -193,6 +194,10 @@ Always building, always curious.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="700" height="250" />
 </p>
+<div align=center height="750">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
+</div>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
 
@@ -202,6 +207,9 @@ Always building, always curious.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
 </picture>
+
+
+
 
 
 
