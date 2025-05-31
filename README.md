@@ -195,7 +195,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 ## 🧑‍🎓 Still Learning!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
 </p>
 
 I'm still learning every day and growing as a developer 🚀  
