@@ -221,8 +221,8 @@ Always building, always curious.
   </tr>
 </table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="450" height="250" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparshsharma81&theme=blue_green&utcOffset=8" width="450" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="400" height="250" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparshsharma81&theme=blue_green&utcOffset=8" width="400" height="250" alt="Productive Time" />
 </p>
 
 
