@@ -28,29 +28,54 @@
 
 ---
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA problems, and building cool real-world projects.
+```java
+import java.util.Arrays;
+import java.util.List;
 
-- 🎯 Currently exploring Full Stack Web Development
-- 💡 Passionate about Data Structures & Algorithms
-- 🧠 I believe in learning by building and breaking things
-- 🛠️ Working on more awesome projects (stay tuned!)
+public class SPARSH {
+    private String name;
+    private String university;
+    private String major;
+    private String year;
+    private String status;
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
+    public SPARSH() {
+        this.name = "Sparsh Sharma";
+        this.university = "Chitkara University, Chandigarh";
+        this.major = "Computer Science & Engineering";
+        this.year = "2nd Year";
+        this.status = "Tech Enthusiast | ";
+    }
+
+    public List<String> recentProjects() {
+        return Arrays.asList("Working chat application", "Chatnow");
+    }
+
+    public String superpower() {
+        return "Transforming real-world problems into project solutions";
+    }
+}
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 0px; background-color: #f9f9f9; border-radius: 16px;">
   <!-- Top Left Image -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-
-  <!-- Top Right Image -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Loading Animation" style="border-radius: 2px;" />
 
   <!-- Center Image (Main) -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" style="border: 4px solid #00f0ff; border-radius: 20px;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" height="200" alt="Hacker Animation" style="border: 4px solid #00f0ff; border-radius: 20px;" />
 
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" height="200" />
-
- 
+  <!-- Top Right Image -->
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" height="200" alt="Coding Animation" style="border-radius: 12px;" />
 </div>
+
 
 ---
 
