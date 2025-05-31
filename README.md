@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sparsh Sharma</h1>
 
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;I+LOVE+DSA;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%92%AF" alt="Typing SVG" />
@@ -19,7 +20,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
+   
+![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
   
 </p>
 
@@ -55,6 +58,7 @@ Hi! I'm **Sparsh Sharma**, a student who loves learning new tech, solving DSA pr
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height = "200" />
 </p>
 
 
@@ -191,15 +195,21 @@ Always building, always curious.
     </td>
   </tr>
 </table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="700" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="450" height="250" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparshsharma81&theme=blue_green&utcOffset=8" width="450" alt="Productive Time" />
 </p>
+
+
 <div align=center height="750">
+
+
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
+
 </div>
-<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" 
+ 
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
 
@@ -212,6 +222,11 @@ Always building, always curious.
 
 
 
+
+
+## ✍️ Random Dev Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
