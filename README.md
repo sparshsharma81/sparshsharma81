@@ -242,3 +242,6 @@ Always building, always curious.
 
 ---
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="800px" ></div>
+
+
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
