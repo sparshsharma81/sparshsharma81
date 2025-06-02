@@ -139,7 +139,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ---
 
-### 💬 Real-time Chat App    (https://chat-mmln.onrender.com)
+### 💬 Real-time Chat App    (https://sparshsharma.vercel.app)
 > A chat application with real-time messaging, authentication, and database integration.
 
 📌 Built with:
