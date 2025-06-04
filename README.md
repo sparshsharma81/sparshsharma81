@@ -137,7 +137,9 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/spicy-1.gif?raw=true" width="1400" />
 </p>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ### 💬 Real-time Chat App    (https://sparshsharma.vercel.app)
 > A chat application with real-time messaging, authentication, and database integration.
