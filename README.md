@@ -49,7 +49,7 @@ public class SPARSH {
         this.university = "Chitkara University, Chandigarh";
         this.major = "Computer Science & Engineering";
         this.year = "2nd Year";
-        this.status = "Tech Enthusiast | ";
+        this.status = "Tech Enthusiast  ";
     }
 
     public List<String> recentProjects() {
