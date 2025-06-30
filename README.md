@@ -48,8 +48,8 @@ public class SPARSH {
         this.name = "Sparsh Sharma";
         this.university = "Chitkara University, Chandigarh";
         this.major = "Computer Science & Engineering";
-        this.year = "2nd Year";
-        this.status = "Tech Enthusiast  ";
+        this.year = "3rd Year";
+        this.status = "Tech Enthusiast";
     }
 
     public List<String> recentProjects() {
