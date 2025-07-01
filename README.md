@@ -260,7 +260,7 @@ Always building, always curious.
 ## ✍️ Random Dev Quote
 
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
 
 ## 📬 Contact Me
