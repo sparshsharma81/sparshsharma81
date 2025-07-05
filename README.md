@@ -28,7 +28,7 @@
 
 ---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 ## 👨‍💻 About Me
@@ -62,7 +62,6 @@ public class SPARSH {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 0px; background-color: #f9f9f9; border-radius: 16px;">
