@@ -196,7 +196,7 @@ intuitive and visually appealing user experience across all devices, including d
 
 ### 🎓 EduConnect — Student ↔ Mentor Platform   
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
-> **Live demo:** https://educonnect.example.com
+> **Live demo:** https://sparsh2.vercel.app
 
 📌 Built with  
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Bcrypt` | `WebRTC` | `FullCalendar`
