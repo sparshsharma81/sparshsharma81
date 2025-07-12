@@ -202,7 +202,7 @@ intuitive and visually appealing user experience across all devices, including d
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Bcrypt` | `WebRTC` | `FullCalendar`
 
    
-  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect.png (1).gif?raw=true" width="1400" />
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect-4.gif?raw=true" width="1400" />
 
 ✔️ Features:
 - 🌟 User Profiles
