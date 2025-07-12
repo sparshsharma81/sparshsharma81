@@ -202,9 +202,9 @@ intuitive and visually appealing user experience across all devices, including d
 `React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Bcrypt` | `WebRTC` | `FullCalendar`
 
    
-  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect.png.gif?raw=true" width="1400" />
-  <br>
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect.png (1).gif?raw=true" width="1400" />
 
+✔️ Features:
 - 🌟 User Profiles
 Customizable profiles where students and mentors can upload avatars, set display names, and update bio or expertise information.
 
