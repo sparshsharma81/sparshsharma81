@@ -211,19 +211,14 @@ Customizable profiles where students and mentors can upload avatars, set display
 - 🎨 Customizable Themes
 Users can toggle between light and dark modes with beautiful built-in Clerk UI themes, ensuring a personalized experience.
 
-- 📤 File Sharing
-Upload and share PDFs, images, and documents securely via Cloudinary, enabling resource exchange between mentors and students.
-
 - 📹 Instant Video Calling
 Seamless one-click video call functionality powered by Vonage, enabling face-to-face mentorship sessions with optional screen sharing.
 
 - 🗓️ Session Scheduling
 Students can book mentorship slots using an intuitive calendar view; mentors manage upcoming calls and availability with ease.
 
-- 🔐 Clerk Authentication
+- 🔐 Clerk Authentication and Payment Integration
 Fully secure login and registration flow managed by Clerk, supporting Google sign-in, magic links, and role-based access control.
-
-- 💳 Payments Integration
 Built-in billing support using Clerk’s pricing component (backed by Stripe), allowing users to upgrade to premium features or plans.
 
 - 🛡️ Password Security with Clerk
