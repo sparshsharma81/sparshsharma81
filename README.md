@@ -148,6 +148,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 <p align="center">
    <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/11-1.gif?raw=true" width="1400" />
+ 
   <br>
 
   
@@ -190,9 +191,55 @@ intuitive and visually appealing user experience across all devices, including d
   Integrated **Gemini AI** assistant (similar to ChatGPT) that can assist users in conversations, answer questions, and enhance interactivity.
 
 
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🎓 EduConnect — Student ↔ Mentor Platform   
+> A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
+> **Live demo:** https://educonnect.example.com
+
+📌 Built with  
+`React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Bcrypt` | `WebRTC` | `FullCalendar`
+
+   
+  <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect.png.gif?raw=true" width="1400" />
+  <br>
+
+- 🌟 User Profiles
+Customizable profiles where students and mentors can upload avatars, set display names, and update bio or expertise information.
+
+- 🎨 Customizable Themes
+Users can toggle between light and dark modes with beautiful built-in Clerk UI themes, ensuring a personalized experience.
+
+- 📤 File Sharing
+Upload and share PDFs, images, and documents securely via Cloudinary, enabling resource exchange between mentors and students.
+
+- 📹 Instant Video Calling
+Seamless one-click video call functionality powered by Vonage, enabling face-to-face mentorship sessions with optional screen sharing.
+
+- 🗓️ Session Scheduling
+Students can book mentorship slots using an intuitive calendar view; mentors manage upcoming calls and availability with ease.
+
+- 🔐 Clerk Authentication
+Fully secure login and registration flow managed by Clerk, supporting Google sign-in, magic links, and role-based access control.
+
+- 💳 Payments Integration
+Built-in billing support using Clerk’s pricing component (backed by Stripe), allowing users to upgrade to premium features or plans.
+
+- 🛡️ Password Security with Clerk
+Clerk handles password encryption and account safety using modern security protocols, ensuring robust protection without manual config.
+
+- 🗄️ Neon + Prisma Database
+All data — user profiles, sessions, and call history — is stored in a scalable and modern Neon (PostgreSQL) database using Prisma ORM.
+
+- 💻 Modern & Responsive UI
+A clean, intuitive, and fully responsive UI built with DaisyUI and TailwindCSS, optimized for desktops, tablets, and smartphones.
+
+- ✉️ Email Contact Feature
+Users can send messages or queries directly to the admin using a contact form powered by Google Apps Script for email delivery.
+
+- 📊 Admin Dashboard
+Platform owner can monitor platform usage, manage users, and export key data through a secure and functional admin interface.
 
 
 
