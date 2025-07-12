@@ -192,7 +192,7 @@ intuitive and visually appealing user experience across all devices, including d
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ### 🎓 EduConnect — Student ↔ Mentor Platform   
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
@@ -236,6 +236,8 @@ Users can send messages or queries directly to the admin using a contact form po
 - 📊 Admin Dashboard
 Platform owner can monitor platform usage, manage users, and export key data through a secure and functional admin interface.
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 ## 🧑‍🎓 Still Learning!
