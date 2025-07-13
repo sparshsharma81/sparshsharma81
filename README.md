@@ -199,7 +199,7 @@ intuitive and visually appealing user experience across all devices, including d
 > **Live demo:** https://sparsh2.vercel.app
 
 📌 Built with  
-`React` | `TailwindCSS` | `DaisyUI` | `Node.js` | `Express` | `MongoDB` | `Socket.io` | `JWT` | `Cloudinary` | `Bcrypt` | `WebRTC` | `FullCalendar`
+`Nextjs` | `TailwindCSS` | `Google app Script` | `Node.js` | `Express` | `NeonDB` | `Prisma` | `ShadcnUI` | `Clerk` | `ShadcnUI` | `Vonage` | `FullCalendar`
 
    
   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect-4.gif?raw=true" width="1400" />
