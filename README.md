@@ -194,9 +194,8 @@ intuitive and visually appealing user experience across all devices, including d
 
 ---
 
-### 🎓 EduConnect — Student ↔ Mentor Platform   
+### 🎓 EduConnect — Student ↔ Mentor Platform   (https://sparsh2.vercel.app)
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
-> **Live demo:** https://sparsh2.vercel.app
 
 📌 Built with  
 `Nextjs` | `TailwindCSS` | `Google app Script` | `Node.js` | `Express` | `NeonDB` | `Prisma` | `ShadcnUI` | `Clerk` | `ShadcnUI` | `Vonage` | `FullCalendar`
