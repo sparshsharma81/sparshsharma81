@@ -208,8 +208,6 @@ intuitive and visually appealing user experience across all devices, including d
 - 🌟 User Profiles
 Customizable profiles where students and mentors can upload avatars, set display names, and update bio or expertise information.
 
-- 🎨 Customizable Themes
-Users can toggle between light and dark modes with beautiful built-in Clerk UI themes, ensuring a personalized experience.
 
 - 📹 Instant Video Calling
 Seamless one-click video call functionality powered by Vonage, enabling face-to-face mentorship sessions with optional screen sharing.
