@@ -169,7 +169,7 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 - 🟢🔴 **Online/Offline Status**  
   Real-time display of user presence with **online/offline status** indicators to show when someone is available to chat.
 
-- 🔁 **Real-time 1-on-1 Messaging**  
+- 🔁 **Real-time 1-on-1 Messaging with WebSockets**  
   Powered by **Socket.io**, users can send and receive messages instantly, ensuring a seamless real-time communication experience.
 
 - 🔐 **JWT Authentication**  
