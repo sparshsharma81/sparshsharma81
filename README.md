@@ -181,10 +181,6 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 - 🗄️ **MongoDB Chat Storage**  
   All chat messages are securely stored and retrieved in **MongoDB**, ensuring **data persistence** and **scalability**.
 
-- 💻 Modern & Responsive UI
-The application boasts a clean, modern, and fully responsive UI built with DaisyUI, delivering an
-intuitive and visually appealing user experience across all devices, including desktops, tablets, and smartphones.
-
 - ▶️ **YouTube Integration**  
   Integrated YouTube API allowing users to search, preview, or share YouTube videos directly within the chat or from your website.
 
