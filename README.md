@@ -225,7 +225,7 @@ All data — user profiles, sessions, and call history — is stored in a scalab
 A clean, intuitive, and fully responsive UI built with DaisyUI and TailwindCSS, optimized for desktops, tablets, and smartphones.
 
 - ✉️ Email Contact Feature
-Users can send messages or queries directly to the admin using a contact form powered by Google Apps Script for email delivery.
+Users can send messages or queries directly to the admin using a contact form powered by Google App Script for email delivery.
 
 - 📊 Admin Dashboard
 Platform owner can monitor platform usage, manage users, and export key data through a secure and functional admin interface.
