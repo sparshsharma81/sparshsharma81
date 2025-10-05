@@ -137,6 +137,18 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/spicy-1.gif?raw=true" width="1400" />
 </p>
 
+## ✨ Features
+
+### 🍴 Restaurant & Menu Management
+- View all restaurants with **dynamic cards** showing image, name, rating, and cuisine type.
+- **Filter restaurants** by vegetarian, non-vegetarian, and Jain preferences.
+- **Search functionality** to quickly find restaurants or dishes.
+- **Responsive design** for desktop and mobile devices.
+
+### 🛒 Food Ordering System
+- Add items to **cart** and manage order quantities.
+- **View total price** and checkout options.
+- Save favorite dishes or restaurants for later use.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
