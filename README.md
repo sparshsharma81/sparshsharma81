@@ -191,6 +191,28 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
 ---
 
+### 🌌 Aura - Instagram Clone  [`Live Demo`](https://sparshaura.vercel.app)
+> A full-featured **Instagram clone** built with **MERN Stack** + **Socket.IO**, featuring real-time chat, image uploads, and interactive social features.
+
+🛠️ **Tech Stack:**  
+`React` • `Redux Toolkit` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `JWT` • `Bcrypt` • `Multer` • `Sharp`
+
+<p align="center">
+  <img src="https://github.com/sparshsharma81/Aura/blob/main/Aura_video.gif?raw=true" width="1400" />
+</p>
+
+✨ **Highlights:**  
+- 🔐 Secure **JWT Authentication** with encrypted passwords and cookie sessions.  
+- 🖼️ Cloud-based **post uploads** with **Sharp** optimization.  
+- ⚡ **Real-time 1:1 Chat** via Socket.IO with live status.  
+- 💬 Like, comment, bookmark, and follow system.  
+- 👤 Customizable profiles with bio & picture updates.  
+- 🛠️ Admin control: remove users, clean data, manage system.  
+- 💻 Fully responsive **modern UI** with Tailwind styling.
+
+
+---
+
 ### 🎓 EduConnect — Student ↔ Mentor Platform   (https://sparsh2.vercel.app)
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
 
