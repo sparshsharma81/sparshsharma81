@@ -213,14 +213,47 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
   <img src="https://github.com/sparshsharma81/Aura/blob/main/Aura_video.gif?raw=true" width="1400" />
 </p>
 
-✨ **Highlights:**  
-- 🔐 Secure **JWT Authentication** with encrypted passwords and cookie sessions.  
-- 🖼️ Cloud-based **post uploads** with **Sharp** optimization.  
-- ⚡ **Real-time 1:1 Chat** via Socket.IO with live status.  
-- 💬 Like, comment, bookmark, and follow system.  
-- 👤 Customizable profiles with bio & picture updates.  
-- 🛠️ Admin control: remove users, clean data, manage system.  
-- 💻 Fully responsive **modern UI** with Tailwind styling.
+## ✨ Key Highlights  
+
+### 🔐 Secure Authentication  
+- JWT-based authentication with **bcrypt** password hashing.  
+- Persistent cookie sessions and secure token handling.  
+- Input validation and robust error management.  
+
+### 📸 Post Management  
+- Cloud-based uploads via **Cloudinary** with image optimization.  
+- Like, comment, bookmark, and share posts in real time.  
+- Smooth post previews and responsive grid layout.  
+
+### 💬 Real-Time Chat System  
+- 1-on-1 real-time messaging using **Socket.IO**.  
+- Live online/offline indicators and typing status.  
+- Message timestamps, media sharing, and read receipts.  
+- Optional **YouTube previews** and integrated **Gemini AI assistant**.  
+
+### 👤 User Profiles  
+- Editable profile (avatar, bio, username, settings).  
+- Follow/unfollow functionality with realtime updates.  
+- Theme support: **light & dark modes** and UI customization.  
+
+### 🧠 Admin Dashboard  
+- Manage users, posts, and reports efficiently.  
+- Admin-level analytics and moderation controls.  
+
+### 📱 Modern & Responsive UI  
+- Built with **TailwindCSS** for adaptive, consistent layouts.  
+- Mobile-first responsive design with smooth animations.  
+- Lazy loading and skeleton UI for enhanced user experience.  
+
+---
+
+## 📊 Bonus Features  
+- 🔔 Real-time notifications for likes, comments, and follows.  
+- 💾 Cloud CDN integration for optimized asset delivery.  
+- 🧩 Modular and clean code architecture.  
+- ⚙️ CI/CD ready for easy deployment and testing.  
+
+---
 
 
 ---
