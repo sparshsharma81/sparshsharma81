@@ -236,9 +236,6 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 - Follow/unfollow functionality with realtime updates.  
 - Theme support: **light & dark modes** and UI customization.  
 
-### 🧠 Admin Dashboard  
-- Manage users, posts, and reports efficiently.  
-- Admin-level analytics and moderation controls.  
 
 ### 📱 Modern & Responsive UI  
 - Built with **TailwindCSS** for adaptive, consistent layouts.  
