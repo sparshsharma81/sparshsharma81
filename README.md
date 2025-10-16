@@ -229,7 +229,6 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 - 1-on-1 real-time messaging using **Socket.IO**.  
 - Live online/offline indicators and typing status.  
 - Message timestamps, media sharing, and read receipts.  
-- Optional **YouTube previews** and integrated **Gemini AI assistant**.  
 
 ### 👤 User Profiles  
 - Editable profile (avatar, bio, username, settings).  
