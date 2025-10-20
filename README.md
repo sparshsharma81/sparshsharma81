@@ -233,7 +233,6 @@ Practicing regularly on platforms like LeetCode, HackerRank, and more.
 ### 👤 User Profiles  
 - Editable profile (avatar, bio, username, settings).  
 - Follow/unfollow functionality with realtime updates.  
-- Theme support: **light & dark modes** and UI customization.  
 
 
 ### 📱 Modern & Responsive UI  
