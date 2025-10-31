@@ -54,7 +54,7 @@ public class SPARSH {
     }
 
     public List<String> recentProjects() {
-        return Arrays.asList("Working student-mentor doubt clear website", "EduConnect");
+        return Arrays.asList("Working Social Media Application", "Aura++");
     }
 
     public String superpower() {
