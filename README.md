@@ -309,6 +309,8 @@ Always building, always curious.
 
 ## 📊 GitHub Stats
 
+[![An image of @sparshsharma81's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sparshsharma81)](https://holopin.io/@sparshsharma81)
+
   <img src="https://github-profile-trophy.vercel.app/?username=sparshsharma81&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
   <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
