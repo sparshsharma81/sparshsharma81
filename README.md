@@ -31,6 +31,90 @@
 
 
 
+
+## 📊 GitHub Stats
+
+[![An image of @sparshsharma81's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sparshsharma81)](https://holopin.io/@sparshsharma81)
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sparshsharma81&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
+  <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
+
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsharma81&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="400" height="250" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparshsharma81&theme=blue_green&utcOffset=8" width="400" height="250" alt="Productive Time" />
+</p>
+
+
+<div align=center height="750">
+
+
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
+
+</div>
+
+ 
+
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+</p>
+ 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
+</picture>
+
+
+
+
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+</p>
+
+### 🌐 Frontend
+<p>
+ <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,figma,bootstrap,daisyui" />
+
+</p>
+
+### 🔧 Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,cloudflare,jwt,socket" />
+
+</p>
+
+### 🧰 Dev Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,ubuntu,vercel" />
+
+
+
+
+
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 ```java
@@ -65,63 +149,7 @@ public class SPARSH {
 
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; padding: 0px; background-color: #f9f9f9; border-radius: 16px;">
-  <!-- Top Left Image -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Loading Animation" style="border-radius: 2px;" />
 
-  <!-- Center Image (Main) -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" height="200" alt="Hacker Animation" style="border: 4px solid #00f0ff; border-radius: 20px;" />
-
-  <!-- Top Right Image -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" height="200" alt="Coding Animation" style="border-radius: 12px;" />
-</div>
-
-
----
-
-## 🧠 I 💖 DSA
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200" />
-  <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height = "200" />-->
-</p>
-
-
-
-I love solving coding problems and sharpening my logic every day.  
-Practicing regularly on platforms like LeetCode, HackerRank, and more.
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-
-</p>
-
-### 🌐 Frontend
-<p>
- <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,figma,bootstrap,daisyui" />
-
-</p>
-
-### 🔧 Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,cloudflare,jwt,socket" />
-
-</p>
-
-### 🧰 Dev Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,ubuntu,vercel" />
-
-
-
-
-
-</p>
 
 ---
 
@@ -307,56 +335,22 @@ Always building, always curious.
 
 ---
 
-## 📊 GitHub Stats
 
-[![An image of @sparshsharma81's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sparshsharma81)](https://holopin.io/@sparshsharma81)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=sparshsharma81&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
-  <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img align="center" src="https://streak-stats.demolab.com/?user=sparshsharma81&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshsharma81&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+## 🧠 I 💖 DSA
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsharma81&layout=compact&theme=algolia" alt="Top Languages" width="400" height="250" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sparshsharma81&theme=blue_green&utcOffset=8" width="400" height="250" alt="Productive Time" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200" />
+  <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height = "200" />-->
 </p>
 
 
-<div align=center height="750">
 
+I love solving coding problems and sharpening my logic every day.  
+Practicing regularly on platforms like LeetCode, HackerRank, and more.
 
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
-
-</div>
-
- 
-
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparshsharma81&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
-</p>
- 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sparshsharma81/sparshsharma81/output/github-snake.svg" />
-</picture>
-
-
-
-
+---
 
 ## ✍️ Random Dev Quote
 
