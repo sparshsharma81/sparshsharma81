@@ -338,19 +338,7 @@ Always building, always curious.
 
 
 
-## 🧠 I 💖 DSA
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200" />
-  <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height = "200" />-->
-</p>
-
-
-
-I love solving coding problems and sharpening my logic every day.  
-Practicing regularly on platforms like LeetCode, HackerRank, and more.
-
----
 
 ## ✍️ Random Dev Quote
 
