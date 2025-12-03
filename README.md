@@ -360,17 +360,6 @@ Always building, always curious.
 
 
 
-
-## ✨ Just Me Coding Away...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" />
-     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Study Mode" height="200"/>
-</p>
-
-> “Code. Learn. Break. Fix. Repeat.”
-
----
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="800px" ></div>
 
 
