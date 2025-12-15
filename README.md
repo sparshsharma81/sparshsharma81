@@ -271,7 +271,7 @@ public class SPARSH {
 ---
 
 ## 📊 Bonus Features  
-- 🔔 Real-time notifications for likes, comments, and follows.  
+- 🔔 Real-time notifications for likes, comments, and follows with Socket-io. 
 - 💾 Cloud CDN integration for optimized asset delivery.  
 - 🧩 Modular and clean code architecture.  
 - ⚙️ CI/CD ready for easy deployment and testing.  
