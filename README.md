@@ -235,7 +235,7 @@ public class SPARSH {
 > A full-featured **Instagram clone** built with **MERN Stack** + **Socket.IO**, featuring real-time chat, image uploads, and interactive social features.
 
 🛠️ **Tech Stack:**  
-`React` • `Redux Toolkit` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `JWT` • `Bcrypt` • `Multer` • `Sharp`
+`React` • `Redux Toolkit` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `JWT` • `Bcrypt` • `Multer` • `Sharp` • `DataUri`
 
 <p align="center">
   <img src="https://github.com/sparshsharma81/Aura/blob/main/Aura_video.gif?raw=true" width="1400" />
