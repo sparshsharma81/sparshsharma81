@@ -285,7 +285,7 @@ public class SPARSH {
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
 
 📌 Built with  
-`Nextjs` | `TailwindCSS` | `Google app Script` | `Node.js` | `Express` | `NeonDB` | `Prisma` | `ShadcnUI` | `Clerk` | `ShadcnUI` | `Vonage` | `FullCalendar`
+`Nextjs` | `TailwindCSS` | `Google app Script` | `Node.js` | `Express` | `NeonDB` | `Prisma` | `ShadcnUI` | `Clerk` | `Vonage` | `FullCalendar`
 
    
   <img src="https://github.com/sparshsharma81/sparshsharma81/blob/main/images/educonnect-4.gif?raw=true" width="1400" />
