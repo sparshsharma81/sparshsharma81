@@ -8,6 +8,7 @@
   </a>
 </p>
 
+
 <h3 align="center">
   
 
@@ -39,6 +40,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sparshsharma81&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
   <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
 
+
+## <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
+
+<img src="https://pacman.abozanona.me?username=sparshsharma81" />
 <table>
   <tr>
     <td>
@@ -57,11 +62,13 @@
 </p>
 
 
+
 <div align=center height="750">
 
 
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sparshsharma81&theme=vision_friendly_dark)
+
 
 </div>
 
