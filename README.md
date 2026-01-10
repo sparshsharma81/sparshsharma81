@@ -238,7 +238,7 @@ public class SPARSH {
 
 ---
 
-### 🌌 Aura - Instagram Clone  [`Live Demo`](https://sparshaura.vercel.app)
+### 🌌 Aura - Instagram Clone  [`Live Demo`](https://sparshaura.vercel.app)       [`Github`](https://github.com/sparshsharma81/Aura)
 > A full-featured **Instagram clone** built with **MERN Stack** + **Socket.IO**, featuring real-time chat, image uploads, and interactive social features.
 
 🛠️ **Tech Stack:**  
