@@ -288,7 +288,7 @@ public class SPARSH {
 
 ---
 
-### 🎓 EduConnect — Student ↔ Mentor Platform   (https://sparsh2.vercel.app)
+### 🎓 EduConnect — Student ↔ Mentor Platform   (https://sparsh2.vercel.app)         [`Github`](https://github.com/sparshsharma81/EduConnect)
 > A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
 
 📌 Built with  
