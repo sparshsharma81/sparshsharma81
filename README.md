@@ -330,6 +330,52 @@ Platform owner can monitor platform usage, manage users, and export key data thr
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+---
+
+
+### 🧩 WOW — Jira-Inspired Workspace & Task Management Platform  [Live Demo](https://sparshwow.vercel.app) | [GitHub Repo](https://github.com/sparshsharma81/WOW)
+
+> A full-stack collaborative workspace and project management platform inspired by Jira, built to help teams organize projects, manage tasks, track analytics, and collaborate efficiently.
+
+**Built with**  
+`Next.js` `TypeScript` `TailwindCSS` `Hono` `Appwrite` `TanStack Query` `Zod` `Radix UI` `Shadcn UI` `React Hook Form` `Recharts`
+
+<img src="https://github.com/sparshsharma81/WOW/blob/main/docs/wow.gif" width="1400" alt="WOW app preview" />
+
+### ✔️ Features
+
+- 🏢 **Workspace Management**  
+  Create and manage collaborative workspaces where teams can organize projects, invite members, and track progress.
+
+- 📁 **Project Organization**  
+  Build projects inside workspaces with metadata, analytics insights, and collaboration tools.
+
+- ✅ **Advanced Task Management**  
+  Create, edit, delete, filter, and bulk-update tasks with smooth real-time UI updates via TanStack Query.
+
+- 📊 **Analytics Dashboard**  
+  Interactive analytics for project activity, task distribution, and workspace productivity.
+
+- 📋 **Multiple Task Views**  
+  Visualize work in **Kanban**, **Table**, or **Calendar** views for flexible workflows.
+
+- 👥 **Team Collaboration & Roles**  
+  Invite teammates, manage member roles, and collaborate across projects and tasks.
+
+- 🔐 **Authentication & Session Management**  
+  Secure Appwrite-powered auth and session handling for safe user access.
+
+- 🧠 **Feature-Driven Architecture**  
+  Scalable modular structure: `auth`, `projects`, `tasks`, `workspaces`, `members`.
+
+- ⚡ **Modern UI & Responsive Design**  
+  Accessible and responsive interface built with TailwindCSS + Radix UI + shadcn/ui.
+
+- 🔗 **Typed API Layer**  
+  Hono backend with typed RPC consumption for consistent and scalable client-server communication.
+
+---
+
 
 ## 🧑‍🎓 Still Learning!
 
