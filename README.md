@@ -333,7 +333,7 @@ Platform owner can monitor platform usage, manage users, and export key data thr
 ---
 
 
-### 🧩 WOW — Jira-Inspired Workspace & Task Management Platform  [Live Demo](https://sparshwow.vercel.app) | [GitHub Repo](https://github.com/sparshsharma81/WOW)
+### 🧩 WOW — Jira-Inspired Workspace & Task Management Platform  [Live Demo](https://sparshwow.vercel.app) | [`GitHub`](https://github.com/sparshsharma81/WOW)
 
 > A full-stack collaborative workspace and project management platform inspired by Jira, built to help teams organize projects, manage tasks, track analytics, and collaborate efficiently.
 
