@@ -37,9 +37,12 @@ Role-based job management for employers and applicants.
 `Java` `Spring Boot` `Maven`
 
 ## Skills
-- **Languages:** JavaScript, TypeScript, Java, Python, C++
-- - **Frontend:** React, Next.js, Tailwind CSS, Redux
-  - - **Backend:** Node.js, Express, Hono, Spring Boot, REST, WebSockets
-    - - **Data and cloud:** MongoDB, PostgreSQL, Prisma, AWS, Vercel
-      - - **Tools:** Git, Docker, Postman, Linux
-        - 
+**Languages:** JavaScript, TypeScript, Java, Python, C++
+
+**Frontend:** React, Next.js, Tailwind CSS, Redux
+
+**Backend:** Node.js, Express, Hono, Spring Boot, REST, WebSockets
+
+**Data and cloud:** MongoDB, PostgreSQL, Prisma, AWS, Vercel
+
+**Tools:** Git, Docker, Postman, Linux
